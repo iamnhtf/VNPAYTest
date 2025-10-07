@@ -16,6 +16,7 @@ D:\SE\Semester 5\VNPAY\VNPAY\obj\Debug\net9.0\VNPAY.AssemblyInfo.cs
 D:\SE\Semester 5\VNPAY\VNPAY\obj\Debug\net9.0\VNPAY.csproj.CoreCompileInputs.cache
 D:\SE\Semester 5\VNPAY\VNPAY\obj\Debug\net9.0\VNPAY.MvcApplicationPartsAssemblyInfo.cs
 D:\SE\Semester 5\VNPAY\VNPAY\obj\Debug\net9.0\VNPAY.MvcApplicationPartsAssemblyInfo.cache
+D:\SE\Semester 5\VNPAY\VNPAY\obj\Debug\net9.0\VNPAY.sourcelink.json
 D:\SE\Semester 5\VNPAY\VNPAY\obj\Debug\net9.0\rjimswa.dswa.cache.json
 D:\SE\Semester 5\VNPAY\VNPAY\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 D:\SE\Semester 5\VNPAY\VNPAY\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
